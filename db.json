@@ -16,6 +16,14 @@
             "product_img": "https://loremflickr.com/640/480/random",
             "description": "Fuga autem fugit. Debitis excepturi optio iusto impedit amet dolorum. Accusantium delectus sapiente facere suscipit rerum voluptatem dolore repellendus. Unde modi suscipit atque dolorem culpa. Occaecati totam et excepturi. Assumenda reiciendis omnis nam ipsa aliquam. Quod quam dolores quis. Eaque dolor odio totam. Id ullam doloremque veritatis molestias explicabo. Tempora quod illo unde aperiam dicta. Reiciendis ad ab quas et culpa. Nobis voluptatum quo amet."
 
+        },
+        {
+            "id": 12,
+            "title": "Lotion",
+            "Price": "499",
+            "product_img": "https://loremflickr.com/640/480/random",
+            "description": "Fuga autem fugit. Debitis excepturi optio iusto impedit amet dolorum. Accusantium delectus sapiente facere suscipit rerum voluptatem dolore repellendus. Unde modi suscipit atque dolorem culpa. Occaecati totam et excepturi. Assumenda reiciendis omnis nam ipsa aliquam. Quod quam dolores quis. Eaque dolor odio totam. Id ullam doloremque veritatis molestias explicabo. Tempora quod illo unde aperiam dicta. Reiciendis ad ab quas et culpa. Nobis voluptatum quo amet."
+
         }
         
     ],
